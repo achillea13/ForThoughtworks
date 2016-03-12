@@ -1,0 +1,6 @@
+促销活动数据准备了3份，其中配置了促销商品数据，分别为promotion.json, promotion1.json, promotion2.json，启动程序可以选择促销数据，或键入自定义的促销数据文件名
+
+账单测试数据准备了3份，分别为bill.json, bill1.json, bill2.json，启动程序可以选择账单，或键入自定义账单文件名
+
+
+商品数据文件为items.json，可自行添加商品及属性
